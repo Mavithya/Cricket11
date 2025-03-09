@@ -27,24 +27,14 @@
       >
         Dashboard
       </router-link>
-      <router-link
-        to="/admin/settings"
-        class="block w-full px-4 py-2 text-sm font-normal bg-transparent whitespace-nowrap text-blueGray-700"
-      >
-        Settings
-      </router-link>
+      
       <router-link
         to="/admin/tables"
         class="block w-full px-4 py-2 text-sm font-normal bg-transparent whitespace-nowrap text-blueGray-700"
       >
-        Tables
+        Your Team
       </router-link>
-      <router-link
-        to="/admin/maps"
-        class="block w-full px-4 py-2 text-sm font-normal bg-transparent whitespace-nowrap text-blueGray-700"
-      >
-        Maps
-      </router-link>
+     
       <div class="h-0 mx-4 my-2 border border-solid border-blueGray-100" />
       <span
         class="block w-full px-4 pt-2 pb-0 text-sm font-bold bg-transparent whitespace-nowrap text-blueGray-400"
@@ -67,7 +57,7 @@
       <span
         class="block w-full px-4 pt-2 pb-0 text-sm font-bold bg-transparent whitespace-nowrap text-blueGray-400"
       >
-        No Layout
+        Main Layout
       </span>
       <router-link
         to="/landing"
@@ -79,7 +69,7 @@
         to="/profile"
         class="block w-full px-4 py-2 text-sm font-normal bg-transparent whitespace-nowrap text-blueGray-700"
       >
-        Profile
+       Player Profile
       </router-link>
     </div>
   </div>
