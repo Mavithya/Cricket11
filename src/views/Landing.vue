@@ -259,7 +259,7 @@
               <div class="px-6">
                 <img alt="..." :src="team1" class="mx-auto rounded-full shadow-lg max-w-120-px" />
                 <div class="pt-6 text-center">
-                  <h5 class="text-xl font-bold">Tharindu Embuldeniya</h5>
+                  <h5 class="text-xl font-bold">Tharindu Gamage</h5>
                   <p class="mt-2 text-sm font-semibold uppercase text-blueGray-400">
                     "King of Captaincy"
                   </p>
