@@ -6,25 +6,25 @@ A modern admin dashboard for managing fantasy cricket players, tournaments, and 
 
 ## Features
 
-### Player CRUD Operations\\
+### Player CRUD Operations
 
-- *Create, update, and delete players*
-- *View detailed batting/bowling statistics*
-- *Dynamic player value calculation*
+- Create, update, and delete players
+- View detailed batting/bowling statistics
+- Dynamic player value calculation
 
-### Tournament Analytics\\
+### Tournament Analytics
 
-- *Real-time leaderboards*
-- *Highest run scorers/wicket takers*
-- *Interactive performance charts*
+- Real-time leaderboards
+- Highest run scorers/wicket takers
+- Interactive performance charts
 
-### Security\\
+### Security
 
-- *JWT Authentication*  
-  Secure token-based authentication for admin access
-- *Password Hashing*  
-  Bcrypt-based password encryption (60,000+ iterations)
-- *Password breach detection*
+- JWT Authentication  
+  *Secure token-based authentication for admin access*
+- Password Hashing
+  *Bcrypt-based password encryption (60,000+ iterations)*
+- Password breach detection
 
 ---
 
@@ -50,29 +50,28 @@ A modern admin dashboard for managing fantasy cricket players, tournaments, and 
 
 ### Installation
 
-1. *Clone Repository*
+1. Clone Repository
 ```bash
 git clone https://github.com/your-username/fantasy-cricket-admin.git
 cd fantasy-cricket-admin
 ```
 
-2. *Backend Setup*
+2. Backend Setup
 ```bash
 cd backend
 python -m venv venv
 ```
-=== Linux/Mac
-```bash
-source venv/bin/activate
-```
+  Linux/Mac
+  ```bash
+  source venv/bin/activate
+  ```
 
-=== Windows
-```bash
-venv\Scripts\activate
-pip install -r requirements.txt
-```
+  Windows
+  ```bash
+  venv\Scripts\activate
+  ```
 
-3. *Frontend Setup*
+3. Frontend Setup
 
 ```bash
 cd ../frontend
@@ -83,28 +82,29 @@ npm install
 
 - *Backend Environment (.env)*
 
-MONGO_URI=mongodb://localhost:27017/fantasy_cricket
-JWT_SECRET=your_secure_secret_here
-FLASK_ENV=development
+  MONGO_URI=mongodb://localhost:27017/fantasy_cricket
+  JWT_SECRET=your_secure_secret_here
+  FLASK_ENV=development
 
 
 - *Frontend Environment (.env)*
 
-VITE_API_URL=http://localhost:5000
+  VITE_API_URL=http://localhost:5000
+  
+  VITE_SOCKET_URL=http://localhost:5000
 
-VITE_SOCKET_URL=http://localhost:5000
-
+---
 
 ## Running the Application
 
-1. *Start Backend Server*
+### Start Backend Server
 
 ```bash
 cd backend
 flask run --port=5000 --debug
 ```
 
-2. *Start Frontend Development*
+### Start Frontend Development
 
 ```bash
 cd ../frontend
@@ -121,12 +121,12 @@ Default Admin Credentials: admin / Test@1234!Secure
 
 ### Initialize MongoDB
 
-Linux/Mac
+- *Linux/Mac*
 ```bash
 sudo systemctl start mongod
 ```
 
-Windows
+- *Windows*
 ```bash
 net start MongoDB
 ```
@@ -141,32 +141,35 @@ mongorestore --db fantasy_cricket dump/fantasy_cricket
 mongodump --db fantasy_cricket --out ./backup
 ```
 
+---
+
 ## Project Structure
 
+```
 fantasy-cricket-admin/
 ├── backend/
-│ ├── app.py
-| ├── config.py
-| ├── extensions.py
-| ├── user_interface.py
-| ├── sample_dta.csv
-| ├── .env
-│ ├── admin/
-| | ├── routes.py
-| ├── user/
-| | ├── routes.py
-│ └── services/
-| | ├── database.py
-| | ├── realtime.py
-| | └── utils.py
-| └── requirements.txt
+│   ├── app.py
+│   ├── config.py
+│   ├── extensions.py
+│   ├── user_interface.py
+│   ├── sample_dta.csv
+│   ├── .env
+│   ├── admin/
+│   │   └── routes.py
+│   ├── user/
+│   │   └── routes.py
+│   └── services/
+│       ├── database.py
+│       ├── realtime.py
+│       └── utils.py
 ├── frontend/
-│ ├── src/
-| | ├── assets/
-| | ├── layouts/
-│ │ ├── components/
-│ │ ├── views/
-│ │ ├── App.vue
-│ │ └── main.js
-│ ├── package.json
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── layouts/
+│   │   ├── components/
+│   │   ├── views/
+│   │   ├── App.vue
+│   │   └── main.js
+│   └── package.json
 └── README.md
+```
