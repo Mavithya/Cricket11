@@ -146,6 +146,7 @@ mongodump --db fantasy_cricket --out ./backup
 
 ## Project Structure
 
+\```plaintext
 fantasy-cricket-admin/
 ├── backend/
 │ ├── app.py
@@ -172,3 +173,4 @@ fantasy-cricket-admin/
 │ │ └── main.js
 │ ├── package.json
 │ └── README.md
+\```
