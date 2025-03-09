@@ -75,7 +75,7 @@ const routes = [
     ],
   },
   {
-    path: "/landing",
+    path: "/",
     component: Landing,
   },
   {
@@ -83,7 +83,7 @@ const routes = [
     component: Profile,
   },
   {
-    path: "/",
+    path: "/index",
     component: Index,
   },
   { path: "/:pathMatch(.*)*", redirect: "/" },
