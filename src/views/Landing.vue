@@ -20,7 +20,7 @@
             <div class="w-full px-4 ml-auto mr-auto text-center lg:w-6/12">
               <div class="pr-12">
                 <h1 class="text-5xl font-bold text-white">
-                  Build Your Dream Team & Win Big!
+                  gg Your Dream Team & Win Big!
                 </h1>
                 <p class="mt-6 text-xl text-blueGray-200">
                   Join the Inter-University Fantasy Cricket Game and test your skills against the best. Draft players, make strategic moves, and climb the leaderboard!
