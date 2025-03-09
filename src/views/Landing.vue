@@ -116,24 +116,22 @@
                 <i class="text-xl fas fa-user-friends"></i>
               </div>
               <h3 class="mb-2 text-3xl font-semibold leading-normal">
-                Working with us is a pleasure
+                Why Play Cricket 11?
               </h3>
-              <p
-                class="mt-4 mb-4 text-lg font-light leading-relaxed text-blueGray-600"
-              >
-                Don't let your uses guess by attaching tooltips and popoves to
-                any element. Just make sure you enable them first via
-                JavaScript.
-              </p>
-              <p
-                class="mt-0 mb-4 text-lg font-light leading-relaxed text-blueGray-600"
-              >
-                The kit comes with three pre-built pages to help you get started
-                faster. You can change the text and images and you're good to
-                go. Just make sure you enable them first via JavaScript.
-              </p>
-              <router-link to="/" class="mt-8 font-bold text-blueGray-700">
-                Check Vue Notus!
+             
+             <div>
+              <ul class="mt-4 mb-4 text-lg font-normal leading-relaxed list-disc list-inside text-blueGray-600">
+                  <li>✅ Real University Cricket Players - Pick from the best university cricketers and build your squad.</li>
+                  <li>✅ AI-Powered Assistance - Get smart player recommendations with Spiriter Chatbot.</li>
+                  <li>✅ Leaderboard Competition - Battle with friends and fellow cricket fans.</li>
+                  <li>✅ Budget Management - Use your Rs.9,000,000 wisely to create the perfect team.</li>
+                  <li>✅ Live Player Stats & Updates - Stay updated with real-time performance data.</li>
+                </ul>
+             </div>
+                
+              
+              <router-link to="/admin" class="mt-8 text-2xl font-bold text-blueGray-700 " >
+                Check Players!
               </router-link>
             </div>
 
@@ -143,8 +141,8 @@
               >
                 <img
                   alt="..."
-                  src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"
-                  class="w-full align-middle rounded-t-lg"
+                  src="https://img.freepik.com/premium-photo/cricket-player_841014-12028.jpg?w=2000"
+                  class="align-middle rounded-t-lg size-40"
                 />
                 <blockquote class="relative p-8 mb-4">
                   <svg
@@ -159,13 +157,11 @@
                     ></polygon>
                   </svg>
                   <h4 class="text-xl font-bold text-white">
-                    Top Notch Services
+                    Start Playing Today!
                   </h4>
-                  <p class="mt-2 font-light text-white text-md">
-                    The Arctic Ocean freezes every winter and much of the
-                    sea-ice then thaws every summer, and that process will
-                    continue whatever happens.
-                  </p>
+                  <p class="mt-2 font-normal text-white text-md">🔹 Step 1: Create your account</p>
+                  <p class="mt-2 font-normal text-white text-md">🔹 Step 2: Pick your best 11</p>
+                  <p class="mt-2 font-normal text-white text-md">🔹 Step 3: Manage & compete</p>
                 </blockquote>
               </div>
             </div>
@@ -210,7 +206,7 @@
                 >
                   <i class="text-xl fas fa-rocket"></i>
                 </div>
-                <h3 class="text-3xl font-semibold">A growing company</h3>
+                <h3 class="text-3xl font-semibold">How It Works? 🏆</h3>
                 <p class="mt-4 text-lg leading-relaxed text-blueGray-500">
                   The extension comes with three pre-built pages to help you get
                   started faster. You can change the text and images and you're
