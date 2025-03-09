@@ -5,7 +5,7 @@
         <router-link
           class="inline-block py-3 mr-4 font-bold leading-relaxed text-white uppercase text-md whitespace-nowrap"
           to="/">
-          SpritX 11
+          Cricket 11
         </router-link>
         <button
           class="block px-3 py-1 text-xl leading-none bg-transparent border border-transparent border-solid rounded outline-none cursor-pointer lg:hidden focus:outline-none"
