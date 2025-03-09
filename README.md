@@ -94,6 +94,7 @@ npm install
   
   VITE_SOCKET_URL=http://localhost:5000
 
+---
 
 ## Running the Application
 
@@ -140,6 +141,8 @@ mongorestore --db fantasy_cricket dump/fantasy_cricket
 ```bash
 mongodump --db fantasy_cricket --out ./backup
 ```
+
+---
 
 ## Project Structure
 
