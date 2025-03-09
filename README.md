@@ -69,7 +69,6 @@ python -m venv venv
   Windows
   ```bash
   venv\Scripts\activate
-  pip install -r requirements.txt
   ```
 
 3. Frontend Setup
