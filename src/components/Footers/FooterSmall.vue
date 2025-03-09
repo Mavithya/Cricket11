@@ -16,7 +16,7 @@
           >
             Copyright © {{ date }}
             <a
-              href="https://www.creative-tim.com?ref=vn-footer-small"
+              href=""
               class="py-1 text-sm font-semibold text-white hover:text-blueGray-300"
             >
               Creative Team

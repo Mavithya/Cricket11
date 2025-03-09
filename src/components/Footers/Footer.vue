@@ -134,7 +134,7 @@
           <div class="py-1 text-sm font-semibold text-blueGray-500">
             Copyright © {{ date }} Cricket 11 by
             <a
-              href="https://www.creative-tim.com?ref=vn-footer"
+              href=""
               class="text-blueGray-500 hover:text-blueGray-800"
             >
               Creative Team 
