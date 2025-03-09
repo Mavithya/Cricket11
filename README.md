@@ -148,27 +148,27 @@ mongodump --db fantasy_cricket --out ./backup
 
 fantasy-cricket-admin/
 ├── backend/
-│ ├── app.py
-│ ├── config.py
-│ ├── extensions.py
-│ ├── user_interface.py
-│ ├── sample_dta.csv
-│ ├── .env
-│ ├── admin/
-│ │ └── routes.py
-│ ├── user/
-│ │ └── routes.py
-│ └── services/
-│ ├── database.py
-│ ├── realtime.py
-│ └── utils.py
+│   ├── app.py
+│   ├── config.py
+│   ├── extensions.py
+│   ├── user_interface.py
+│   ├── sample_dta.csv
+│   ├── .env
+│   ├── admin/
+│   │   └── routes.py
+│   ├── user/
+│   │   └── routes.py
+│   └── services/
+│       ├── database.py
+│       ├── realtime.py
+│       └── utils.py
 ├── frontend/
-│ ├── src/
-│ │ ├── assets/
-│ │ ├── layouts/
-│ │ ├── components/
-│ │ ├── views/
-│ │ ├── App.vue
-│ │ └── main.js
-│ ├── package.json
-│ └── README.md
+│   ├── src/
+│   │   ├── assets/
+│   │   ├── layouts/
+│   │   ├── components/
+│   │   ├── views/
+│   │   ├── App.vue
+│   │   └── main.js
+│   └── package.json
+└── README.md
