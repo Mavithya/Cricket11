@@ -195,8 +195,8 @@
             <div class="w-full px-4 ml-auto mr-auto md:w-4/12">
               <img
                 alt="..."
-                class="max-w-full rounded-lg shadow-lg"
-                src="https://images.unsplash.com/photo-1555212697-194d092e3b8f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+                class="h-auto max-w-full align-middle border-none rounded-lg shadow-xl"
+                src="https://c4.wallpaperflare.com/wallpaper/412/331/580/sports-cricket-wallpaper-preview.jpg"
               />
             </div>
             <div class="w-full px-4 ml-auto mr-auto md:w-5/12">
@@ -208,23 +208,21 @@
                 </div>
                 <h3 class="text-3xl font-semibold">How It Works? 🏆</h3>
                 <p class="mt-4 text-lg leading-relaxed text-blueGray-500">
-                  The extension comes with three pre-built pages to help you get
-                  started faster. You can change the text and images and you're
-                  good to go.
+                  Think you have what it takes to win? Join now and become the Cricket 11 Champion!
                 </p>
                 <ul class="mt-6 list-none">
                   <li class="py-2">
                     <div class="flex items-center">
                       <div>
                         <span
-                          class="inline-block px-2 py-1 mr-3 text-xs font-semibold uppercase rounded-full text-emerald-600 bg-emerald-200"
+                          class="inline-block px-2 py-2 mr-4 font-semibold uppercase rounded-full text-normal text-emerald-600 bg-emerald-200"
                         >
-                          <i class="fas fa-fingerprint"></i>
+                        <i class="fa-solid fa-user-plus"></i>
                         </span>
                       </div>
                       <div>
-                        <h4 class="text-blueGray-500">
-                          Carefully crafted components
+                        <h4 class="text-blueGray-600">
+                          Sign Up & Log In - Create your account and start playing.
                         </h4>
                       </div>
                     </div>
@@ -233,14 +231,14 @@
                     <div class="flex items-center">
                       <div>
                         <span
-                          class="inline-block px-2 py-1 mr-3 text-xs font-semibold uppercase rounded-full text-emerald-600 bg-emerald-200"
+                          class="inline-block px-3 py-2 mr-3 font-semibold uppercase rounded-full text-normal text-emerald-600 bg-emerald-200"
                         >
-                          <i class="fab fa-html5"></i>
+                        <i class="fa-solid fa-circle-check"></i>
                         </span>
                       </div>
                       <div>
-                        <h4 class="text-blueGray-500">
-                          Amazing page examples
+                        <h4 class="text-blueGray-600">
+                          Select Your Team - Pick 11 players within your budget
                         </h4>
                       </div>
                     </div>
@@ -249,16 +247,50 @@
                     <div class="flex items-center">
                       <div>
                         <span
-                          class="inline-block px-2 py-1 mr-3 text-xs font-semibold uppercase rounded-full text-emerald-600 bg-emerald-200"
+                          class="inline-block px-2 py-2 mr-4 font-semibold uppercase rounded-full text-normal text-emerald-600 bg-emerald-200"
                         >
-                          <i class="far fa-paper-plane"></i>
+                        <i class="fa-solid fa-people-roof"></i>
                         </span>
                       </div>
                       <div>
-                        <h4 class="text-blueGray-500">Dynamic components</h4>
+                        <h4 class="text-blueGray-600">
+                          Manage Your Squad - Swap players, track performance, and optimize your team.
+                        </h4>
                       </div>
                     </div>
                   </li>
+                  <li class="py-2">
+                    <div class="flex items-center">
+                      <div>
+                        <span
+                          class="inline-block px-2 py-2 mr-4 font-semibold uppercase rounded-full text-normal text-emerald-600 bg-emerald-200"
+                        >
+                        <i class="fa-solid fa-ranking-star"></i>
+                        </span>
+                      </div>
+                      <div>
+                        <h4 class="text-blueGray-600">
+                          Compete on the Leaderboard - Earn points based on real match performances!
+                        </h4>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="py-2">
+                    <div class="flex items-center">
+                      <div>
+                        <span
+                          class="inline-block px-2 py-2 mr-4 font-semibold uppercase rounded-full text-normal text-emerald-600 bg-emerald-200"
+                        >
+                        <i class="fa-solid fa-headset"></i>
+                        </span>
+                      </div>
+                      <div>
+                        <h4 class="text-blueGray-600">
+                          Get AI Assistance - Our chatbot Spiriter helps you make better choices!                        </h4>
+                      </div>
+                    </div>
+                  </li>
+                  
                 </ul>
               </div>
             </div>
