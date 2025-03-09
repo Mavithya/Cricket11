@@ -6,19 +6,19 @@ A modern admin dashboard for managing fantasy cricket players, tournaments, and 
 
 ## Features
 
-### Player CRUD Operations\\
+### Player CRUD Operations\
 
 - *Create, update, and delete players*
 - *View detailed batting/bowling statistics*
 - *Dynamic player value calculation*
 
-### Tournament Analytics\\
+### Tournament Analytics\
 
 - *Real-time leaderboards*
 - *Highest run scorers/wicket takers*
 - *Interactive performance charts*
 
-### Security\\
+### Security\
 
 - *JWT Authentication*  
   Secure token-based authentication for admin access
@@ -61,12 +61,12 @@ cd fantasy-cricket-admin
 cd backend
 python -m venv venv
 ```
-=== Linux/Mac
+Linux/Mac
 ```bash
 source venv/bin/activate
 ```
 
-=== Windows
+Windows
 ```bash
 venv\Scripts\activate
 pip install -r requirements.txt
@@ -83,16 +83,16 @@ npm install
 
 - *Backend Environment (.env)*
 
-MONGO_URI=mongodb://localhost:27017/fantasy_cricket
-JWT_SECRET=your_secure_secret_here
-FLASK_ENV=development
+  MONGO_URI=mongodb://localhost:27017/fantasy_cricket
+  JWT_SECRET=your_secure_secret_here
+  FLASK_ENV=development
 
 
 - *Frontend Environment (.env)*
 
-VITE_API_URL=http://localhost:5000
-
-VITE_SOCKET_URL=http://localhost:5000
+  VITE_API_URL=http://localhost:5000
+  
+  VITE_SOCKET_URL=http://localhost:5000
 
 
 ## Running the Application
