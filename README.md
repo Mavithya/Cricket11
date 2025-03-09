@@ -97,14 +97,14 @@ VITE_SOCKET_URL=http://localhost:5000
 
 ## Running the Application
 
-- *Start Backend Server*
+1. *Start Backend Server*
 
 ```bash
 cd backend
 flask run --port=5000 --debug
 ```
 
-- *Start Frontend Development*
+2. *Start Frontend Development*
 
 ```bash
 cd ../frontend
@@ -112,6 +112,7 @@ npm run serve
 ```
 
 Access dashboard at: http://localhost:5173
+
 Default Admin Credentials: admin / Test@1234!Secure
 
 ---
