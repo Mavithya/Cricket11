@@ -8,23 +8,23 @@ A modern admin dashboard for managing fantasy cricket players, tournaments, and 
 
 ### Player CRUD Operations
 
-- *Create, update, and delete players*
-- *View detailed batting/bowling statistics*
-- *Dynamic player value calculation*
+- Create, update, and delete players
+- View detailed batting/bowling statistics
+- Dynamic player value calculation
 
 ### Tournament Analytics
 
-- *Real-time leaderboards*
-- *Highest run scorers/wicket takers*
-- *Interactive performance charts*
+- Real-time leaderboards
+- Highest run scorers/wicket takers
+- Interactive performance charts
 
 ### Security
 
-- *JWT Authentication*  
+- JWT Authentication  
   Secure token-based authentication for admin access
-- *Password Hashing*  
+- Password Hashing 
   Bcrypt-based password encryption (60,000+ iterations)
-- *Password breach detection*
+- Password breach detection
 
 ---
 
