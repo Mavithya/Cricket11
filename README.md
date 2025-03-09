@@ -6,19 +6,19 @@ A modern admin dashboard for managing fantasy cricket players, tournaments, and 
 
 ## Features
 
-### Player CRUD Operations\
+### Player CRUD Operations
 
 - *Create, update, and delete players*
 - *View detailed batting/bowling statistics*
 - *Dynamic player value calculation*
 
-### Tournament Analytics\
+### Tournament Analytics
 
 - *Real-time leaderboards*
 - *Highest run scorers/wicket takers*
 - *Interactive performance charts*
 
-### Security\
+### Security
 
 - *JWT Authentication*  
   Secure token-based authentication for admin access
@@ -50,29 +50,29 @@ A modern admin dashboard for managing fantasy cricket players, tournaments, and 
 
 ### Installation
 
-1. *Clone Repository*
+1. Clone Repository
 ```bash
 git clone https://github.com/your-username/fantasy-cricket-admin.git
 cd fantasy-cricket-admin
 ```
 
-2. *Backend Setup*
+2. Backend Setup
 ```bash
 cd backend
 python -m venv venv
 ```
-Linux/Mac
-```bash
-source venv/bin/activate
-```
+  Linux/Mac
+  ```bash
+  source venv/bin/activate
+  ```
 
-Windows
-```bash
-venv\Scripts\activate
-pip install -r requirements.txt
-```
+  Windows
+  ```bash
+  venv\Scripts\activate
+  pip install -r requirements.txt
+  ```
 
-3. *Frontend Setup*
+3. Frontend Setup
 
 ```bash
 cd ../frontend
@@ -97,14 +97,14 @@ npm install
 
 ## Running the Application
 
-1. *Start Backend Server*
+### Start Backend Server
 
 ```bash
 cd backend
 flask run --port=5000 --debug
 ```
 
-2. *Start Frontend Development*
+### Start Frontend Development
 
 ```bash
 cd ../frontend
