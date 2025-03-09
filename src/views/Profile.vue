@@ -70,7 +70,7 @@
                       <span
                         class="block text-xl font-bold tracking-wide uppercase text-blueGray-600"
                       >
-                        22
+                        1022
                       </span>
                       <span class="text-sm text-blueGray-400">Friends</span>
                     </div>
@@ -78,7 +78,7 @@
                       <span
                         class="block text-xl font-bold tracking-wide uppercase text-blueGray-600"
                       >
-                        10
+                        101
                       </span>
                       <span class="text-sm text-blueGray-400">Photos</span>
                     </div>
@@ -86,7 +86,7 @@
                       <span
                         class="block text-xl font-bold tracking-wide uppercase text-blueGray-600"
                       >
-                        89
+                        890
                       </span>
                       <span class="text-sm text-blueGray-400">Comments</span>
                     </div>
@@ -97,7 +97,7 @@
                 <h3
                   class="mb-2 text-4xl font-semibold leading-normal text-blueGray-700"
                 >
-                  Dinesh Chandimal
+                  Dinesh Sandakan
                 </h3>
                 <div
                   class="mt-0 mb-2 text-sm font-bold leading-normal uppercase text-blueGray-400"
