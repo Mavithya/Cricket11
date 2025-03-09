@@ -65,8 +65,7 @@
                   </div>
                   <h6 class="text-xl font-semibold">Awarded Agency</h6>
                   <p class="mt-2 mb-4 text-blueGray-500">
-                    Divide details about your product or agency work into parts.
-                    A paragraph describing a feature will be enough.
+                     Recognized for Excellence in Innovation & Sports, our team behind Cricket11 has been honored for revolutionizing fantasy cricket in the university sports arena.
                   </p>
                 </div>
               </div>
@@ -80,12 +79,11 @@
                   <div
                     class="inline-flex items-center justify-center w-12 h-12 p-3 mb-5 text-center text-white rounded-full shadow-lg bg-lightBlue-400"
                   >
-                    <i class="fas fa-retweet"></i>
+                  <i class="fa-solid fa-bullseye"></i>
                   </div>
-                  <h6 class="text-xl font-semibold">Free Revisions</h6>
+                  <h6 class="text-xl font-semibold">Ultimate Fantasy Experience</h6>
                   <p class="mt-2 mb-4 text-blueGray-500">
-                    Keep you user engaged by providing meaningful information.
-                    Remember that by this time, the user is curious.
+                    Unleash your cricket strategy with Cricket11! Build your dream team, manage budgets, and compete with fellow  cricket fans.
                   </p>
                 </div>
               </div>
@@ -99,12 +97,11 @@
                   <div
                     class="inline-flex items-center justify-center w-12 h-12 p-3 mb-5 text-center text-white rounded-full shadow-lg bg-emerald-400"
                   >
-                    <i class="fas fa-fingerprint"></i>
+                  <i class="fa-solid fa-cloud-bolt"></i>
                   </div>
-                  <h6 class="text-xl font-semibold">Verified Company</h6>
+                  <h6 class="text-xl font-semibold">Real-Time Stats & Insights</h6>
                   <p class="mt-2 mb-4 text-blueGray-500">
-                    Write a few lines about each one. A paragraph describing a
-                    feature will be enough. Keep you user engaged!
+                    Stay ahead of the game with instant player updates and real-time performance tracking! Make informed decisions and lead your team to victory!
                   </p>
                 </div>
               </div>
