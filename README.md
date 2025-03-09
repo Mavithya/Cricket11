@@ -51,10 +51,10 @@ A modern admin dashboard for managing fantasy cricket players, tournaments, and 
 ### Installation
 
 1. *Clone Repository*
-
+```bash
 git clone https://github.com/your-username/fantasy-cricket-admin.git
 cd fantasy-cricket-admin
-
+```
 
 2. *Backend Setup*
 ```bash
@@ -62,18 +62,22 @@ cd backend
 python -m venv venv
 ```
 === Linux/Mac
+```bash
 source venv/bin/activate
+```
 
 === Windows
+```bash
 venv\Scripts\activate
 pip install -r requirements.txt
-
+```
 
 3. *Frontend Setup*
 
+```bash
 cd ../frontend
 npm install
-
+```
 
 ### Configuration
 
@@ -94,17 +98,17 @@ VITE_SOCKET_URL=http://localhost:5000
 
 - *Start Backend Server*
 
-bash
+```bash
 cd backend
 flask run --port=5000 --debug
-
+```
 
 - *Start Frontend Development*
 
-bash
+```bash
 cd ../frontend
 npm run serve
-
+```
 
 Access dashboard at: http://localhost:5173
 Default Admin Credentials: admin / Test@1234!Secure
@@ -116,24 +120,24 @@ Default Admin Credentials: admin / Test@1234!Secure
 ### Initialize MongoDB
 
 === Linux/Mac
-
+```bash
 sudo systemctl start mongod
-
+```
 
 === Windows
-
+```bash
 net start MongoDB
-
+```
 
 ### Import Sample Data
-
+```bash
 mongorestore --db fantasy_cricket dump/fantasy_cricket
-
+```
 
 ### Export Database
-
+```bash
 mongodump --db fantasy_cricket --out ./backup
-
+```
 
 ## Project Structure
 
