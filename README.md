@@ -57,14 +57,14 @@ cd fantasy-cricket-admin
 
 
 2. *Backend Setup*
-
+```bash
 cd backend
 python -m venv venv
-
-# Linux/Mac
+```
+=== Linux/Mac
 source venv/bin/activate
 
-# Windows
+=== Windows
 venv\Scripts\activate
 pip install -r requirements.txt
 
