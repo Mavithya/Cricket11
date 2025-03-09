@@ -20,7 +20,7 @@
             <div class="w-full px-4 ml-auto mr-auto text-center lg:w-6/12">
               <div class="pr-12">
                 <h1 class="text-5xl font-bold text-white">
-                  gg Your Dream Team & Win Big!
+                  Build Your Dream Team & Win Big!
                 </h1>
                 <p class="mt-6 text-xl text-blueGray-200">
                   Join the Inter-University Fantasy Cricket Game and test your skills against the best. Draft players, make strategic moves, and climb the leaderboard!
@@ -65,8 +65,7 @@
                   </div>
                   <h6 class="text-xl font-semibold">Awarded Agency</h6>
                   <p class="mt-2 mb-4 text-blueGray-500">
-                    Divide details about your product or agency work into parts.
-                    A paragraph describing a feature will be enough.
+                     Recognized for Excellence in Innovation & Sports, our team behind Cricket11 has been honored for revolutionizing fantasy cricket in the university sports arena.
                   </p>
                 </div>
               </div>
@@ -80,12 +79,11 @@
                   <div
                     class="inline-flex items-center justify-center w-12 h-12 p-3 mb-5 text-center text-white rounded-full shadow-lg bg-lightBlue-400"
                   >
-                    <i class="fas fa-retweet"></i>
+                  <i class="fa-solid fa-bullseye"></i>
                   </div>
-                  <h6 class="text-xl font-semibold">Free Revisions</h6>
+                  <h6 class="text-xl font-semibold">Ultimate Fantasy Experience</h6>
                   <p class="mt-2 mb-4 text-blueGray-500">
-                    Keep you user engaged by providing meaningful information.
-                    Remember that by this time, the user is curious.
+                    Unleash your cricket strategy with Cricket11! Build your dream team, manage budgets, and compete with fellow  cricket fans.
                   </p>
                 </div>
               </div>
@@ -99,12 +97,11 @@
                   <div
                     class="inline-flex items-center justify-center w-12 h-12 p-3 mb-5 text-center text-white rounded-full shadow-lg bg-emerald-400"
                   >
-                    <i class="fas fa-fingerprint"></i>
+                  <i class="fa-solid fa-cloud-bolt"></i>
                   </div>
-                  <h6 class="text-xl font-semibold">Verified Company</h6>
+                  <h6 class="text-xl font-semibold">Real-Time Stats & Insights</h6>
                   <p class="mt-2 mb-4 text-blueGray-500">
-                    Write a few lines about each one. A paragraph describing a
-                    feature will be enough. Keep you user engaged!
+                    Stay ahead of the game with instant player updates and real-time performance tracking! Make informed decisions and lead your team to victory!
                   </p>
                 </div>
               </div>
@@ -119,24 +116,22 @@
                 <i class="text-xl fas fa-user-friends"></i>
               </div>
               <h3 class="mb-2 text-3xl font-semibold leading-normal">
-                Working with us is a pleasure
+                Why Play Cricket 11?
               </h3>
-              <p
-                class="mt-4 mb-4 text-lg font-light leading-relaxed text-blueGray-600"
-              >
-                Don't let your uses guess by attaching tooltips and popoves to
-                any element. Just make sure you enable them first via
-                JavaScript.
-              </p>
-              <p
-                class="mt-0 mb-4 text-lg font-light leading-relaxed text-blueGray-600"
-              >
-                The kit comes with three pre-built pages to help you get started
-                faster. You can change the text and images and you're good to
-                go. Just make sure you enable them first via JavaScript.
-              </p>
-              <router-link to="/" class="mt-8 font-bold text-blueGray-700">
-                Check Vue Notus!
+             
+             <div>
+              <ul class="mt-4 mb-4 text-lg font-normal leading-relaxed list-disc list-inside text-blueGray-600">
+                  <li>✅ Real University Cricket Players - Pick from the best university cricketers and build your squad.</li>
+                  <li>✅ AI-Powered Assistance - Get smart player recommendations with Spiriter Chatbot.</li>
+                  <li>✅ Leaderboard Competition - Battle with friends and fellow cricket fans.</li>
+                  <li>✅ Budget Management - Use your Rs.9,000,000 wisely to create the perfect team.</li>
+                  <li>✅ Live Player Stats & Updates - Stay updated with real-time performance data.</li>
+                </ul>
+             </div>
+                
+              
+              <router-link to="/admin" class="mt-8 text-2xl font-bold text-blueGray-700 " >
+                Check Players!
               </router-link>
             </div>
 
@@ -146,8 +141,8 @@
               >
                 <img
                   alt="..."
-                  src="https://images.unsplash.com/photo-1522202176988-66273c2fd55f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1051&q=80"
-                  class="w-full align-middle rounded-t-lg"
+                  src="https://img.freepik.com/premium-photo/cricket-player_841014-12028.jpg?w=2000"
+                  class="align-middle rounded-t-lg size-40"
                 />
                 <blockquote class="relative p-8 mb-4">
                   <svg
@@ -162,13 +157,11 @@
                     ></polygon>
                   </svg>
                   <h4 class="text-xl font-bold text-white">
-                    Top Notch Services
+                    Start Playing Today!
                   </h4>
-                  <p class="mt-2 font-light text-white text-md">
-                    The Arctic Ocean freezes every winter and much of the
-                    sea-ice then thaws every summer, and that process will
-                    continue whatever happens.
-                  </p>
+                  <p class="mt-2 font-normal text-white text-md">🔹 Step 1: Create your account</p>
+                  <p class="mt-2 font-normal text-white text-md">🔹 Step 2: Pick your best 11</p>
+                  <p class="mt-2 font-normal text-white text-md">🔹 Step 3: Manage & compete</p>
                 </blockquote>
               </div>
             </div>
@@ -202,8 +195,8 @@
             <div class="w-full px-4 ml-auto mr-auto md:w-4/12">
               <img
                 alt="..."
-                class="max-w-full rounded-lg shadow-lg"
-                src="https://images.unsplash.com/photo-1555212697-194d092e3b8f?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=634&q=80"
+                class="h-auto max-w-full align-middle border-none rounded-lg shadow-xl"
+                src="https://c4.wallpaperflare.com/wallpaper/412/331/580/sports-cricket-wallpaper-preview.jpg"
               />
             </div>
             <div class="w-full px-4 ml-auto mr-auto md:w-5/12">
@@ -213,25 +206,23 @@
                 >
                   <i class="text-xl fas fa-rocket"></i>
                 </div>
-                <h3 class="text-3xl font-semibold">A growing company</h3>
+                <h3 class="text-3xl font-semibold">How It Works? 🏆</h3>
                 <p class="mt-4 text-lg leading-relaxed text-blueGray-500">
-                  The extension comes with three pre-built pages to help you get
-                  started faster. You can change the text and images and you're
-                  good to go.
+                  Think you have what it takes to win? Join now and become the Cricket 11 Champion!
                 </p>
                 <ul class="mt-6 list-none">
                   <li class="py-2">
                     <div class="flex items-center">
                       <div>
                         <span
-                          class="inline-block px-2 py-1 mr-3 text-xs font-semibold uppercase rounded-full text-emerald-600 bg-emerald-200"
+                          class="inline-block px-2 py-2 mr-4 font-semibold uppercase rounded-full text-normal text-emerald-600 bg-emerald-200"
                         >
-                          <i class="fas fa-fingerprint"></i>
+                        <i class="fa-solid fa-user-plus"></i>
                         </span>
                       </div>
                       <div>
-                        <h4 class="text-blueGray-500">
-                          Carefully crafted components
+                        <h4 class="text-blueGray-600">
+                          Sign Up & Log In - Create your account and start playing.
                         </h4>
                       </div>
                     </div>
@@ -240,14 +231,14 @@
                     <div class="flex items-center">
                       <div>
                         <span
-                          class="inline-block px-2 py-1 mr-3 text-xs font-semibold uppercase rounded-full text-emerald-600 bg-emerald-200"
+                          class="inline-block px-3 py-2 mr-3 font-semibold uppercase rounded-full text-normal text-emerald-600 bg-emerald-200"
                         >
-                          <i class="fab fa-html5"></i>
+                        <i class="fa-solid fa-circle-check"></i>
                         </span>
                       </div>
                       <div>
-                        <h4 class="text-blueGray-500">
-                          Amazing page examples
+                        <h4 class="text-blueGray-600">
+                          Select Your Team - Pick 11 players within your budget
                         </h4>
                       </div>
                     </div>
@@ -256,16 +247,50 @@
                     <div class="flex items-center">
                       <div>
                         <span
-                          class="inline-block px-2 py-1 mr-3 text-xs font-semibold uppercase rounded-full text-emerald-600 bg-emerald-200"
+                          class="inline-block px-2 py-2 mr-4 font-semibold uppercase rounded-full text-normal text-emerald-600 bg-emerald-200"
                         >
-                          <i class="far fa-paper-plane"></i>
+                        <i class="fa-solid fa-people-roof"></i>
                         </span>
                       </div>
                       <div>
-                        <h4 class="text-blueGray-500">Dynamic components</h4>
+                        <h4 class="text-blueGray-600">
+                          Manage Your Squad - Swap players, track performance, and optimize your team.
+                        </h4>
                       </div>
                     </div>
                   </li>
+                  <li class="py-2">
+                    <div class="flex items-center">
+                      <div>
+                        <span
+                          class="inline-block px-2 py-2 mr-4 font-semibold uppercase rounded-full text-normal text-emerald-600 bg-emerald-200"
+                        >
+                        <i class="fa-solid fa-ranking-star"></i>
+                        </span>
+                      </div>
+                      <div>
+                        <h4 class="text-blueGray-600">
+                          Compete on the Leaderboard - Earn points based on real match performances!
+                        </h4>
+                      </div>
+                    </div>
+                  </li>
+                  <li class="py-2">
+                    <div class="flex items-center">
+                      <div>
+                        <span
+                          class="inline-block px-2 py-2 mr-4 font-semibold uppercase rounded-full text-normal text-emerald-600 bg-emerald-200"
+                        >
+                        <i class="fa-solid fa-headset"></i>
+                        </span>
+                      </div>
+                      <div>
+                        <h4 class="text-blueGray-600">
+                          Get AI Assistance - Our chatbot Spiriter helps you make better choices!                        </h4>
+                      </div>
+                    </div>
+                  </li>
+                  
                 </ul>
               </div>
             </div>
