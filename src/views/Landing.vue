@@ -259,7 +259,7 @@
               <div class="px-6">
                 <img alt="..." :src="team1" class="mx-auto rounded-full shadow-lg max-w-120-px" />
                 <div class="pt-6 text-center">
-                  <h5 class="text-xl font-bold">Rajesh Kumar</h5>
+                  <h5 class="text-xl font-bold">Tharindu Embuldeniya</h5>
                   <p class="mt-2 text-sm font-semibold uppercase text-blueGray-400">
                     "King of Captaincy"
                   </p>
@@ -279,7 +279,7 @@
               <div class="px-6">
                 <img alt="..." :src="team2" class="mx-auto rounded-full shadow-lg max-w-120-px" />
                 <div class="pt-6 text-center">
-                  <h5 class="text-xl font-bold">Romina Hadid</h5>
+                  <h5 class="text-xl font-bold">Suranga Bandara</h5>
                   <p class="mt-2 text-sm font-semibold uppercase text-blueGray-400">
                     "The Game Changer"
                   </p>
@@ -298,7 +298,7 @@
               <div class="px-6">
                 <img alt="..." :src="team3" class="mx-auto rounded-full shadow-lg max-w-120-px" />
                 <div class="pt-6 text-center">
-                  <h5 class="text-xl font-bold">Alexa Smith</h5>
+                  <h5 class="text-xl font-bold">Bhanuka Rajapaksa</h5>
                   <p class="mt-2 text-sm font-semibold uppercase text-blueGray-400">
                     "Tactical Genius"
                   </p>
@@ -317,7 +317,7 @@
               <div class="px-6">
                 <img alt="..." :src="team4" class="mx-auto rounded-full shadow-lg max-w-120-px" />
                 <div class="pt-6 text-center">
-                  <h5 class="text-xl font-bold">Jenna Kardi</h5>
+                  <h5 class="text-xl font-bold">Sandakan Hasaranga</h5>
                   <p class="mt-2 text-sm font-semibold uppercase text-blueGray-400">
                     "The Risk Taker"
                   </p>

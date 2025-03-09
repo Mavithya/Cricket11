@@ -147,12 +147,12 @@
                   class="mr-2 text-sm fas fa-table"
                   :class="[isActive ? 'opacity-75' : 'text-blueGray-300']"
                 ></i>
-                Tables
+                Your Team
               </a>
             </router-link>
           </li>
 
-          <li class="items-center">
+          <!-- <li class="items-center">
             <router-link to="/admin/maps" v-slot="{ href, navigate, isActive }">
               <a
                 :href="href"
@@ -171,7 +171,7 @@
                 Maps
               </a>
             </router-link>
-          </li>
+          </li> -->
         </ul>
 
         <!-- Divider -->
@@ -214,7 +214,7 @@
         <h6
           class="block pt-1 pb-4 text-xs font-bold no-underline uppercase md:min-w-full text-blueGray-500"
         >
-          No Layout Pages
+          Main Layout Pages
         </h6>
         <!-- Navigation -->
 
@@ -225,7 +225,7 @@
               to="/landing"
             >
               <i class="mr-2 text-sm fas fa-newspaper text-blueGray-300"></i>
-              Landing Page
+              Home Page
             </router-link>
           </li>
 
@@ -243,103 +243,13 @@
         <!-- Divider -->
         <hr class="my-4 md:min-w-full" />
         <!-- Heading -->
-        <h6
+        <!-- <h6
           class="block pt-1 pb-4 text-xs font-bold no-underline uppercase md:min-w-full text-blueGray-500"
         >
           Documentation
-        </h6>
+        </h6> -->
         <!-- Navigation -->
-        <ul class="flex flex-col list-none md:flex-col md:min-w-full md:mb-4">
-          <li class="inline-flex">
-            <a
-              href="https://www.creative-tim.com/learning-lab/tailwind/vue/colors/notus"
-              target="_blank"
-              class="block mb-4 text-sm font-semibold no-underline text-blueGray-700 hover:text-blueGray-500"
-            >
-              <i
-                class="mr-2 text-base fas fa-paint-brush text-blueGray-300"
-              ></i>
-              Styles
-            </a>
-          </li>
-
-          <li class="inline-flex">
-            <a
-              href="https://www.creative-tim.com/learning-lab/tailwind/vue/alerts/notus"
-              target="_blank"
-              class="block mb-4 text-sm font-semibold no-underline text-blueGray-700 hover:text-blueGray-500"
-            >
-              <i class="mr-2 text-base fab fa-css3-alt text-blueGray-300"></i>
-              CSS Components
-            </a>
-          </li>
-
-          <li class="inline-flex">
-            <a
-              href="https://www.creative-tim.com/learning-lab/tailwind/angular/overview/notus"
-              target="_blank"
-              class="block mb-4 text-sm font-semibold no-underline text-blueGray-700 hover:text-blueGray-500"
-            >
-              <i class="mr-2 text-base fab fa-angular text-blueGray-300"></i>
-              Angular
-            </a>
-          </li>
-
-          <li class="inline-flex">
-            <a
-              href="https://www.creative-tim.com/learning-lab/tailwind/js/overview/notus"
-              target="_blank"
-              class="block mb-4 text-sm font-semibold no-underline text-blueGray-700 hover:text-blueGray-500"
-            >
-              <i class="mr-2 text-base fab fa-js-square text-blueGray-300"></i>
-              Javascript
-            </a>
-          </li>
-
-          <li class="inline-flex">
-            <a
-              href="https://www.creative-tim.com/learning-lab/tailwind/nextjs/overview/notus"
-              target="_blank"
-              class="block mb-4 text-sm font-semibold no-underline text-blueGray-700 hover:text-blueGray-500"
-            >
-              <i class="mr-2 text-base fab fa-react text-blueGray-300"></i>
-              NextJS
-            </a>
-          </li>
-
-          <li class="inline-flex">
-            <a
-              href="https://www.creative-tim.com/learning-lab/tailwind/react/overview/notus"
-              target="_blank"
-              class="block mb-4 text-sm font-semibold no-underline text-blueGray-700 hover:text-blueGray-500"
-            >
-              <i class="mr-2 text-base fab fa-react text-blueGray-300"></i>
-              React
-            </a>
-          </li>
-
-          <li class="inline-flex">
-            <a
-              href="https://www.creative-tim.com/learning-lab/tailwind/svelte/overview/notus"
-              target="_blank"
-              class="block mb-4 text-sm font-semibold no-underline text-blueGray-700 hover:text-blueGray-500"
-            >
-              <i class="mr-2 text-base fas fa-link text-blueGray-300"></i>
-              Svelte
-            </a>
-          </li>
-
-          <li class="inline-flex">
-            <a
-              href="https://www.creative-tim.com/learning-lab/tailwind/vue/overview/notus"
-              target="_blank"
-              class="block mb-4 text-sm font-semibold no-underline text-blueGray-700 hover:text-blueGray-500"
-            >
-              <i class="mr-2 text-base fab fa-vuejs text-blueGray-300"></i>
-              VueJS
-            </a>
-          </li>
-        </ul>
+     
       </div>
     </div>
   </nav>
