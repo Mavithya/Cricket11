@@ -23,7 +23,6 @@ A modern admin dashboard for managing fantasy cricket players, tournaments, and 
 - JWT Authentication  
   *Secure token-based authentication for admin access*
 - Password Hashing
-
   *Bcrypt-based password encryption (60,000+ iterations)*
 - Password breach detection
 
