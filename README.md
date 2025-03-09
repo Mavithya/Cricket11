@@ -91,6 +91,7 @@ FLASK_ENV=development
 - *Frontend Environment (.env)*
 
 VITE_API_URL=http://localhost:5000
+
 VITE_SOCKET_URL=http://localhost:5000
 
 
@@ -119,12 +120,12 @@ Default Admin Credentials: admin / Test@1234!Secure
 
 ### Initialize MongoDB
 
-=== Linux/Mac
+Linux/Mac
 ```bash
 sudo systemctl start mongod
 ```
 
-=== Windows
+Windows
 ```bash
 net start MongoDB
 ```
