@@ -6,7 +6,7 @@
         <div
           class="absolute top-0 w-full h-full bg-center bg-cover"
           style="
-            background-image: url('https://images.unsplash.com/photo-1499336315816-097655dcfbda?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=2710&q=80');
+            background-image: url('https://img.freepik.com/premium-photo/spectators-expecting-evening-match-green-grass-field-stadium_1199132-32347.jpg');
           "
         >
           <span
@@ -47,8 +47,8 @@
                   <div class="relative">
                     <img
                       alt="..."
-                      src="https://img.freepik.com/premium-photo/cricket-athletes_551707-50604.jpg"
-                      class="absolute h-auto -m-16 -ml-20 align-middle border-none rounded-full shadow-xl lg:-ml-16 max-w-150-px"
+                      src="https://img1.hscicdn.com/image/upload/f_auto/lsci/db/PICTURES/CMS/175500/175557.jpg"
+                      class="absolute -m-16 -ml-20 align-middle border-none rounded-full shadow-xl lg:-ml-16 max-w-150-px"
                     />
                   </div>
                 </div>
@@ -60,7 +60,7 @@
                       class="px-4 py-2 mb-1 text-xs font-bold text-white uppercase transition-all duration-150 ease-linear rounded shadow outline-none bg-emerald-500 active:bg-emerald-600 hover:shadow-md focus:outline-none sm:mr-2"
                       type="button"
                     >
-                      Connect
+                      Add to Team
                     </button>
                   </div>
                 </div>
@@ -97,7 +97,7 @@
                 <h3
                   class="mb-2 text-4xl font-semibold leading-normal text-blueGray-700"
                 >
-                  Jenna Stones
+                  Dinesh Chandimal
                 </h3>
                 <div
                   class="mt-0 mb-2 text-sm font-bold leading-normal uppercase text-blueGray-400"
@@ -105,34 +105,34 @@
                   <i
                     class="mr-2 text-lg fas fa-map-marker-alt text-blueGray-400"
                   ></i>
-                  Los Angeles, California
+                  Ambalangoda, Sri Lanka
                 </div>
                 <div class="mt-10 mb-2 text-blueGray-600">
-                  <i
-                    class="mr-2 text-lg fas fa-briefcase text-blueGray-400"
-                  ></i>
-                  Solution Manager - Creative Tim Officer
+                 
+                  <i class="mr-2 text-lg fa-solid fa-broom-ball text-blueGray-400"></i>
+                  Right Handed Batsman
                 </div>
                 <div class="mb-2 text-blueGray-600">
                   <i
                     class="mr-2 text-lg fas fa-university text-blueGray-400"
                   ></i>
-                  University of Computer Science
+                  University of Kelaniya
                 </div>
               </div>
-              <div class="py-10 mt-10 text-center border-t border-blueGray-200">
+              <div class="py-10 mt-10 text-left border-t border-blueGray-200 ">
                 <div class="flex flex-wrap justify-center">
                   <div class="w-full px-4 lg:w-9/12">
-                    <p class="mb-4 text-lg leading-relaxed text-blueGray-700">
-                      An artist of considerable range, Jenna the name taken by
-                      Melbourne-raised, Brooklyn-based Nick Murphy writes,
-                      performs and records all of his own music, giving it a
-                      warm, intimate feel with a solid groove structure. An
-                      artist of considerable range.
+                    <p class="mb-4 text-lg leading-relaxed text-blueGray-700 ">
+                      Performance Stat
                     </p>
+                    <ul class="mb-4 ">
+                      <li>Matches Played: 🔹Tests: 70+ 🔹ODIs: 150+ 🔹 T20Is: 60+</li>
+                      <li>Runs Scored :🔹Tests: 5,000+ runs 🔹ODIs: 4,000+ run🔹T20Is: 1,000+ runs</li>
+                      <li>Highest Scores :🔹Tests: 164 🔹ODIs: 111🔹T20Is: 66</li>
+                    </ul>
                     <a
                       href="javascript:void(0)"
-                      class="font-normal text-emerald-500"
+                      class="mt-4 font-normal text-emerald-500"
                     >
                       Show more
                     </a>
