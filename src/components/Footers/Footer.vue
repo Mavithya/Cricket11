@@ -65,7 +65,7 @@
                 <li>
                   <a
                     class="block pb-2 text-sm font-semibold text-blueGray-600 hover:text-blueGray-800"
-                    href="https://www.creative-tim.com/presentation?ref=vn-footer"
+                    href=""
                   >
                     About Us
                   </a>
@@ -73,25 +73,18 @@
                 <li>
                   <a
                     class="block pb-2 text-sm font-semibold text-blueGray-600 hover:text-blueGray-800"
-                    href="https://blog.creative-tim.com?ref=vn-footer"
+                    href=""
                   >
-                    Blog
+                  Contact Us
                   </a>
                 </li>
+              
                 <li>
                   <a
                     class="block pb-2 text-sm font-semibold text-blueGray-600 hover:text-blueGray-800"
-                    href="https://www.github.com/creativetimofficial?ref=vn-footer"
+                    href=""
                   >
-                    Github
-                  </a>
-                </li>
-                <li>
-                  <a
-                    class="block pb-2 text-sm font-semibold text-blueGray-600 hover:text-blueGray-800"
-                    href="https://www.creative-tim.com/bootstrap-themes/free?ref=vn-footer"
-                  >
-                    Free Products
+                    Dashboard
                   </a>
                 </li>
               </ul>
@@ -103,18 +96,11 @@
                 Other Resources
               </span>
               <ul class="list-unstyled">
+
                 <li>
                   <a
                     class="block pb-2 text-sm font-semibold text-blueGray-600 hover:text-blueGray-800"
-                    href="https://github.com/creativetimofficial/vue-notus/blob/main/LICENSE.md?ref=vn-footer"
-                  >
-                    MIT License
-                  </a>
-                </li>
-                <li>
-                  <a
-                    class="block pb-2 text-sm font-semibold text-blueGray-600 hover:text-blueGray-800"
-                    href="https://creative-tim.com/terms?ref=vn-footer"
+                    href=""
                   >
                     Terms & Conditions
                   </a>
@@ -122,7 +108,7 @@
                 <li>
                   <a
                     class="block pb-2 text-sm font-semibold text-blueGray-600 hover:text-blueGray-800"
-                    href="https://creative-tim.com/privacy?ref=vn-footer"
+                    href=""
                   >
                     Privacy Policy
                   </a>
@@ -130,9 +116,9 @@
                 <li>
                   <a
                     class="block pb-2 text-sm font-semibold text-blueGray-600 hover:text-blueGray-800"
-                    href="https://creative-tim.com/contact-us?ref=vn-footer"
+                    href=""
                   >
-                    Contact Us
+                   Legal Notice
                   </a>
                 </li>
               </ul>
